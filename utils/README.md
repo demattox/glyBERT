@@ -7,13 +7,14 @@ All scripts and programs used to perform this analysis
 
 - Packages and dependencies
 - Should set add this directory to python path to import stuff from sugarTrees.py
+- Update the homeDir variable in sugarTrees.py the path in which this directory was cloned
 
 ---
 
 ## Brief overview of the contents of each directory and how they were used
 1. Preprocessing
 2. Modeling
-3. Postprocess
+3. Postprocessing
 
 ### Pre-processing
 General glycan encoding and SugarBase glycans
@@ -28,3 +29,15 @@ Glycans on CFG microarray
 
 Matched structures for immunogenic glycans (generative exploration set-up)
 - `matchedTree-immuno.py`: Explore toplogical relationships between glycan strutures to find sets of glycans with different immunogenicity labels reachable by a generative process that only subsititues monosaccharides
+
+### Modeling
+
+
+### Post-processing
+- `gly_emb_UMAP.py`: Explore and visualize whole glycans embeddings in UMAP space
+- `monosacc_emb_UMAP.py`: Explore and visualize monosacccharide-level embeddings in UMAP space
+- `prediction_results.R`: Process and visualize results of predictive classification
+- `immunoGen_plots.py`: Process results of generative exploration and reformat to read into R
+- `immGenGraphs.R`: Visualize results of initial generative exploration (fig 4)
+- `immunoGen_plots_run2.py`: Process results of re-run generative exploration saving out results for more generative paths than done in the initial run
+- `immGenGraphs_run2.R`: Visualize results of complete generative exploration (fig S2)

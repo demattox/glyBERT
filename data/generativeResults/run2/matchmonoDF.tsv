@@ -1,0 +1,240 @@
+Path	Start	Prob_imm	isStart	IUPAC	MonoIDs	Monosaccs	Existing glycan
+1	SBID6185	0.8521855473518372	True	NeuNAc(a2-3)Gal(b1-3)GalNAc	[9, 4, 11]	['NeuNAc', 'Gal', 'GalNAc']	Non-immunogenic
+1	SBID6185	0.9937613606452942	False	NeuNAc(a2-3)Gal(b1-3)GlcNAc	[5, 4, 11]	['NeuNAc', 'Gal', 'GlcNAc']	Immunogenic
+2	SBID6185	0.8521855473518372	True	NeuNAc(a2-3)Gal(b1-3)GalNAc	[9, 4, 11]	['NeuNAc', 'Gal', 'GalNAc']	Non-immunogenic
+2	SBID6185	0.8553546071052551	False	NeuNGc(a2-3)Gal(b1-3)GalNAc	[9, 4, 20]	['NeuNGc', 'Gal', 'GalNAc']	Immunogenic
+3	SBID6185	0.8521855473518372	True	NeuNAc(a2-3)Gal(b1-3)GalNAc	[9, 4, 11]	['NeuNAc', 'Gal', 'GalNAc']	Non-immunogenic
+3	SBID6185	0.9943706393241882	False	NeuNAc(a2-3)Gal(b1-3)GlcNAcOS	[26, 4, 11]	['NeuNAc', 'Gal', 'GlcNAcOS']	Unknown
+3	SBID6185	0.9937613606452942	False	NeuNAc(a2-3)Gal(b1-3)GlcNAc	[5, 4, 11]	['NeuNAc', 'Gal', 'GlcNAc']	Immunogenic
+4	SBID6185	0.8521855473518372	True	NeuNAc(a2-3)Gal(b1-3)GalNAc	[9, 4, 11]	['NeuNAc', 'Gal', 'GalNAc']	Non-immunogenic
+4	SBID6185	0.9910731911659241	False	NeuNAc(a2-3)Gal(b1-3)Glc	[6, 4, 11]	['NeuNAc', 'Gal', 'Glc']	Novel
+4	SBID6185	0.9786866307258606	False	Gal(a2-3)Gal(b1-3)Glc	[6, 4, 4]	['Gal', 'Gal', 'Glc']	Novel
+4	SBID6185	0.9908220767974854	False	Gal(a2-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Novel
+4	SBID6185	0.9975026249885559	False	GalNAc(a2-3)Gal(b1-3)Gal	[4, 4, 9]	['GalNAc', 'Gal', 'Gal']	Novel
+4	SBID6185	0.9945902824401855	False	NeuNGc(a2-3)Gal(b1-3)Gal	[4, 4, 20]	['NeuNGc', 'Gal', 'Gal']	Novel
+4	SBID6185	0.9939000606536865	False	NeuNGc(a2-3)Gal(b1-3)GlcNAc	[5, 4, 20]	['NeuNGc', 'Gal', 'GlcNAc']	Immunogenic
+5	SBID6185	0.8521855473518372	True	NeuNAc(a2-3)Gal(b1-3)GalNAc	[9, 4, 11]	['NeuNAc', 'Gal', 'GalNAc']	Non-immunogenic
+5	SBID6185	0.9963260293006897	False	NeuNAc(a2-3)Gal(b1-3)b-Tri-ol	[47, 4, 11]	['NeuNAc', 'Gal', 'b-Tri-ol']	Novel
+5	SBID6185	0.9943706393241882	False	NeuNAc(a2-3)Gal(b1-3)GlcNAcOS	[26, 4, 11]	['NeuNAc', 'Gal', 'GlcNAcOS']	Unknown
+5	SBID6185	0.994142472743988	False	NeuNAc(a2-3)Gal(b1-3)Gal	[4, 4, 11]	['NeuNAc', 'Gal', 'Gal']	Novel
+5	SBID6185	0.8521855473518372	False	NeuNAc(a2-3)Gal(b1-3)GalNAc	[9, 4, 11]	['NeuNAc', 'Gal', 'GalNAc']	Non-immunogenic
+5	SBID6185	0.9937613606452942	False	NeuNAc(a2-3)Gal(b1-3)GlcNAc	[5, 4, 11]	['NeuNAc', 'Gal', 'GlcNAc']	Immunogenic
+6	SBID6185	0.8521855473518372	True	NeuNAc(a2-3)Gal(b1-3)GalNAc	[9, 4, 11]	['NeuNAc', 'Gal', 'GalNAc']	Non-immunogenic
+6	SBID6185	0.994142472743988	False	NeuNAc(a2-3)Gal(b1-3)Gal	[4, 4, 11]	['NeuNAc', 'Gal', 'Gal']	Novel
+6	SBID6185	0.9945902824401855	False	NeuNGc(a2-3)Gal(b1-3)Gal	[4, 4, 20]	['NeuNGc', 'Gal', 'Gal']	Novel
+6	SBID6185	0.8553546071052551	False	NeuNGc(a2-3)Gal(b1-3)GalNAc	[9, 4, 20]	['NeuNGc', 'Gal', 'GalNAc']	Immunogenic
+7	SBID6185	0.8521855473518372	True	NeuNAc(a2-3)Gal(b1-3)GalNAc	[9, 4, 11]	['NeuNAc', 'Gal', 'GalNAc']	Non-immunogenic
+7	SBID6185	0.9932217597961426	False	NeuNAc(a2-3)Gal(b1-3)Fuc	[8, 4, 11]	['NeuNAc', 'Gal', 'Fuc']	Novel
+7	SBID6185	0.9937613606452942	False	NeuNAc(a2-3)Gal(b1-3)GlcNAc	[5, 4, 11]	['NeuNAc', 'Gal', 'GlcNAc']	Immunogenic
+8	SBID7112	0.46662041544914246	True	GlcNAc(b1-3)Gal(b1-3)GalNAc	[9, 4, 5]	['GlcNAc', 'Gal', 'GalNAc']	Non-immunogenic
+8	SBID7112	0.9840966463088989	False	Glc(b1-3)Gal(b1-3)GalNAc	[9, 4, 6]	['Glc', 'Gal', 'GalNAc']	Novel
+8	SBID7112	0.9992768168449402	False	Glc(b1-3)Gal(b1-3)GlcNAc	[5, 4, 6]	['Glc', 'Gal', 'GlcNAc']	Novel
+8	SBID7112	0.9994943141937256	False	Glc(b1-3)Gal(b1-3)Gal	[4, 4, 6]	['Glc', 'Gal', 'Gal']	Novel
+8	SBID7112	0.9908220767974854	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+9	SBID7112	0.46662041544914246	True	GlcNAc(b1-3)Gal(b1-3)GalNAc	[9, 4, 5]	['GlcNAc', 'Gal', 'GalNAc']	Non-immunogenic
+9	SBID7112	0.9983324408531189	False	GlcNAc(b1-3)Gal(b1-3)Gal	[4, 4, 5]	['GlcNAc', 'Gal', 'Gal']	Novel
+9	SBID7112	0.9908220767974854	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+10	SBID7112	0.46662041544914246	True	GlcNAc(b1-3)Gal(b1-3)GalNAc	[9, 4, 5]	['GlcNAc', 'Gal', 'GalNAc']	Non-immunogenic
+10	SBID7112	0.5047903060913086	False	Gal(b1-3)Gal(b1-3)GalNAc	[9, 4, 4]	['Gal', 'Gal', 'GalNAc']	Unknown
+10	SBID7112	0.9908220767974854	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+11	SBID7112	0.46662041544914246	True	GlcNAc(b1-3)Gal(b1-3)GalNAc	[9, 4, 5]	['GlcNAc', 'Gal', 'GalNAc']	Non-immunogenic
+11	SBID7112	0.9983324408531189	False	GlcNAc(b1-3)Gal(b1-3)Gal	[4, 4, 5]	['GlcNAc', 'Gal', 'Gal']	Novel
+11	SBID7112	0.9975026249885559	False	GalNAc(b1-3)Gal(b1-3)Gal	[4, 4, 9]	['GalNAc', 'Gal', 'Gal']	Novel
+11	SBID7112	0.9779928922653198	False	GalNAc(b1-3)Gal(b1-3)GalNAcOS	[56, 4, 9]	['GalNAc', 'Gal', 'GalNAcOS']	Novel
+11	SBID7112	0.9975026249885559	False	GalNAc(b1-3)Gal(b1-3)Gal	[4, 4, 9]	['GalNAc', 'Gal', 'Gal']	Novel
+11	SBID7112	0.9908220767974854	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+12	SBID7112	0.46662041544914246	True	GlcNAc(b1-3)Gal(b1-3)GalNAc	[9, 4, 5]	['GlcNAc', 'Gal', 'GalNAc']	Non-immunogenic
+12	SBID7112	0.9206445813179016	False	GlcNAc(b1-3)Man(b1-3)GalNAc	[9, 7, 5]	['GlcNAc', 'Man', 'GalNAc']	Novel
+12	SBID7112	0.997219443321228	False	GlcNAc(b1-3)Man(b1-3)Gal	[4, 7, 5]	['GlcNAc', 'Man', 'Gal']	Novel
+12	SBID7112	0.9983324408531189	False	GlcNAc(b1-3)Gal(b1-3)Gal	[4, 4, 5]	['GlcNAc', 'Gal', 'Gal']	Novel
+12	SBID7112	0.9908220767974854	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+13	SBID7112	0.46662041544914246	True	GlcNAc(b1-3)Gal(b1-3)GalNAc	[9, 4, 5]	['GlcNAc', 'Gal', 'GalNAc']	Non-immunogenic
+13	SBID7112	0.9729687571525574	False	GlcNAc(b1-3)GalNAc(b1-3)GalNAc	[9, 9, 5]	['GlcNAc', 'GalNAc', 'GalNAc']	Novel
+13	SBID7112	0.9701001048088074	False	Gal(b1-3)GalNAc(b1-3)GalNAc	[9, 9, 4]	['Gal', 'GalNAc', 'GalNAc']	Novel
+13	SBID7112	0.99874347448349	False	Gal(b1-3)GalNAc(b1-3)Gal	[4, 9, 4]	['Gal', 'GalNAc', 'Gal']	Immunogenic
+14	SBID7112	0.46662041544914246	True	GlcNAc(b1-3)Gal(b1-3)GalNAc	[9, 4, 5]	['GlcNAc', 'Gal', 'GalNAc']	Non-immunogenic
+14	SBID7112	0.5488378405570984	False	Man(b1-3)Gal(b1-3)GalNAc	[9, 4, 7]	['Man', 'Gal', 'GalNAc']	Novel
+14	SBID7112	0.9721863269805908	False	Man(b1-3)Gal(b1-3)Gal	[4, 4, 7]	['Man', 'Gal', 'Gal']	Novel
+14	SBID7112	0.9908220767974854	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+15	SBID7112	0.46662041544914246	True	GlcNAc(b1-3)Gal(b1-3)GalNAc	[9, 4, 5]	['GlcNAc', 'Gal', 'GalNAc']	Non-immunogenic
+15	SBID7112	0.9840966463088989	False	Glc(b1-3)Gal(b1-3)GalNAc	[9, 4, 6]	['Glc', 'Gal', 'GalNAc']	Novel
+15	SBID7112	0.5047903060913086	False	Gal(b1-3)Gal(b1-3)GalNAc	[9, 4, 4]	['Gal', 'Gal', 'GalNAc']	Unknown
+15	SBID7112	0.9906733632087708	False	Gal(b1-3)Gal(b1-3)GlcA	[14, 4, 4]	['Gal', 'Gal', 'GlcA']	Novel
+15	SBID7112	0.9903850555419922	False	Gal(b1-3)Gal(b1-3)GlcNAc	[5, 4, 4]	['Gal', 'Gal', 'GlcNAc']	Novel
+15	SBID7112	0.9990209341049194	False	Gal(b1-3)Gal(b1-3)GlcN	[16, 4, 4]	['Gal', 'Gal', 'GlcN']	Novel
+15	SBID7112	0.9786866307258606	False	Gal(b1-3)Gal(b1-3)Glc	[6, 4, 4]	['Gal', 'Gal', 'Glc']	Unknown
+15	SBID7112	0.9908220767974854	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+16	SBID10624	0.38179606199264526	True	Gal(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+16	SBID10624	0.9968396425247192	False	Gal(b1-3)GlcNAc(b1-3)GlcNAc	[5, 5, 4]	['Gal', 'GlcNAc', 'GlcNAc']	Novel
+16	SBID10624	0.9920765161514282	False	Gal(b1-3)Gal(b1-3)GlcNAc	[5, 4, 4]	['Gal', 'Gal', 'GlcNAc']	Novel
+16	SBID10624	0.9915689826011658	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+17	SBID10624	0.38179606199264526	True	Gal(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+17	SBID10624	0.998658299446106	False	Gal(b1-3)GlcNAc(b1-3)Gal	[4, 5, 4]	['Gal', 'GlcNAc', 'Gal']	Unknown
+17	SBID10624	0.9983887672424316	False	Gal(b1-3)GalNAc(b1-3)Gal	[4, 9, 4]	['Gal', 'GalNAc', 'Gal']	Immunogenic
+18	SBID10624	0.38179606199264526	True	Gal(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+18	SBID10624	0.9994359612464905	False	Gal(b1-3)ManNAcA(b1-3)GalNAc	[9, 49, 4]	['Gal', 'ManNAcA', 'GalNAc']	Novel
+18	SBID10624	0.9999732971191406	False	Gal(b1-3)ManNAcA(b1-3)Rha	[10, 49, 4]	['Gal', 'ManNAcA', 'Rha']	Novel
+18	SBID10624	0.9999816417694092	False	Gal(b1-3)ManNAcA(b1-3)GalA	[17, 49, 4]	['Gal', 'ManNAcA', 'GalA']	Novel
+18	SBID10624	0.9999507665634155	False	Gal(b1-3)ManNAcA(b1-3)GlcNAc	[5, 49, 4]	['Gal', 'ManNAcA', 'GlcNAc']	Novel
+18	SBID10624	0.9999171495437622	False	Gal(b1-3)ManNAcA(b1-3)Glc	[6, 49, 4]	['Gal', 'ManNAcA', 'Glc']	Novel
+18	SBID10624	0.9982499480247498	False	Gal(b1-3)GalNAc(b1-3)Glc	[6, 9, 4]	['Gal', 'GalNAc', 'Glc']	Novel
+18	SBID10624	0.9983887672424316	False	Gal(b1-3)GalNAc(b1-3)Gal	[4, 9, 4]	['Gal', 'GalNAc', 'Gal']	Immunogenic
+19	SBID10624	0.38179606199264526	True	Gal(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+19	SBID10624	0.9920532703399658	False	Gal(b1-3)GlcNAc(b1-3)Glc	[6, 5, 4]	['Gal', 'GlcNAc', 'Glc']	Novel
+19	SBID10624	0.9832932949066162	False	Gal(b1-3)Gal(b1-3)Glc	[6, 4, 4]	['Gal', 'Gal', 'Glc']	Unknown
+19	SBID10624	0.9915689826011658	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+20	SBID10624	0.38179606199264526	True	Gal(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+20	SBID10624	0.998658299446106	False	Gal(b1-3)GlcNAc(b1-3)Gal	[4, 5, 4]	['Gal', 'GlcNAc', 'Gal']	Unknown
+20	SBID10624	0.9915689826011658	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+21	SBID10624	0.38179606199264526	True	Gal(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+21	SBID10624	0.7262078523635864	False	Gal(b1-3)Gal(b1-3)GalNAc	[9, 4, 4]	['Gal', 'Gal', 'GalNAc']	Unknown
+21	SBID10624	0.9915689826011658	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+22	SBID10624	0.38179606199264526	True	Gal(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+22	SBID10624	0.7262078523635864	False	Gal(b1-3)Gal(b1-3)GalNAc	[9, 4, 4]	['Gal', 'Gal', 'GalNAc']	Unknown
+22	SBID10624	0.9920765161514282	False	Gal(b1-3)Gal(b1-3)GlcNAc	[5, 4, 4]	['Gal', 'Gal', 'GlcNAc']	Novel
+22	SBID10624	0.9832932949066162	False	Gal(b1-3)Gal(b1-3)Glc	[6, 4, 4]	['Gal', 'Gal', 'Glc']	Unknown
+22	SBID10624	0.9915689826011658	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+23	SBID10624	0.38179606199264526	True	Gal(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+23	SBID10624	0.9968396425247192	False	Gal(b1-3)GlcNAc(b1-3)GlcNAc	[5, 5, 4]	['Gal', 'GlcNAc', 'GlcNAc']	Novel
+23	SBID10624	0.9243910312652588	False	Gal(b1-3)GlcNAc(b1-3)Man	[7, 5, 4]	['Gal', 'GlcNAc', 'Man']	Novel
+23	SBID10624	0.998658299446106	False	Gal(b1-3)GlcNAc(b1-3)Gal	[4, 5, 4]	['Gal', 'GlcNAc', 'Gal']	Unknown
+23	SBID10624	0.9915689826011658	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+24	SBID10624	0.38179606199264526	True	Gal(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+24	SBID10624	0.9920532703399658	False	Gal(b1-3)GlcNAc(b1-3)Glc	[6, 5, 4]	['Gal', 'GlcNAc', 'Glc']	Novel
+24	SBID10624	0.9832932949066162	False	Gal(b1-3)Gal(b1-3)Glc	[6, 4, 4]	['Gal', 'Gal', 'Glc']	Unknown
+24	SBID10624	0.9687241911888123	False	Man(b1-3)Gal(b1-3)Glc	[6, 4, 7]	['Man', 'Gal', 'Glc']	Novel
+24	SBID10624	0.9832932949066162	False	Gal(b1-3)Gal(b1-3)Glc	[6, 4, 4]	['Gal', 'Gal', 'Glc']	Unknown
+24	SBID10624	0.9915689826011658	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+25	SBID10624	0.38179606199264526	True	Gal(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+25	SBID10624	0.999539852142334	False	Gal(b1-3)GlcNAc(b1-3)Galf	[21, 5, 4]	['Gal', 'GlcNAc', 'Galf']	Novel
+25	SBID10624	0.9968396425247192	False	Gal(b1-3)GlcNAc(b1-3)GlcNAc	[5, 5, 4]	['Gal', 'GlcNAc', 'GlcNAc']	Novel
+25	SBID10624	0.9920765161514282	False	Gal(b1-3)Gal(b1-3)GlcNAc	[5, 4, 4]	['Gal', 'Gal', 'GlcNAc']	Novel
+25	SBID10624	0.9772264957427979	False	Gal(b1-3)Gal(b1-3)GalOMe	[36, 4, 4]	['Gal', 'Gal', 'GalOMe']	Novel
+25	SBID10624	0.9915689826011658	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+26	SBID10624	0.38179606199264526	True	Gal(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+26	SBID10624	0.8398918509483337	False	Gal(b1-3)ManOP(b1-3)GalNAc	[9, 44, 4]	['Gal', 'ManOP', 'GalNAc']	Novel
+26	SBID10624	0.9745596647262573	False	Gal(b1-3)ManOP(b1-3)Gal	[4, 44, 4]	['Gal', 'ManOP', 'Gal']	Novel
+26	SBID10624	0.9915689826011658	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+27	SBID10624	0.38179606199264526	True	Gal(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+27	SBID10624	0.9526600241661072	False	Gal(b1-3)GalNAc(b1-3)GalNAc	[9, 9, 4]	['Gal', 'GalNAc', 'GalNAc']	Novel
+27	SBID10624	0.9983887672424316	False	Gal(b1-3)GalNAc(b1-3)Gal	[4, 9, 4]	['Gal', 'GalNAc', 'Gal']	Immunogenic
+28	SBID14983	0.3804851472377777	True	GalOS(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 28]	['GalOS', 'GlcNAc', 'GalNAc']	Non-immunogenic
+28	SBID14983	0.9897088408470154	False	GalOS(b1-3)GlcNAc(b1-3)GlcNAcOP	[57, 5, 28]	['GalOS', 'GlcNAc', 'GlcNAcOP']	Novel
+28	SBID14983	0.9993755221366882	False	Gal(b1-3)GlcNAc(b1-3)GlcNAcOP	[57, 5, 4]	['Gal', 'GlcNAc', 'GlcNAcOP']	Novel
+28	SBID14983	0.9958620071411133	False	Gal(b1-3)Gal(b1-3)GlcNAcOP	[57, 4, 4]	['Gal', 'Gal', 'GlcNAcOP']	Novel
+28	SBID14983	0.9914745092391968	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+29	SBID14983	0.3804851472377777	True	GalOS(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 28]	['GalOS', 'GlcNAc', 'GalNAc']	Non-immunogenic
+29	SBID14983	0.7625666260719299	False	Fuc(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 8]	['Fuc', 'GlcNAc', 'GalNAc']	Novel
+29	SBID14983	0.9854490160942078	False	Fuc(b1-3)GalNAc(b1-3)GalNAc	[9, 9, 8]	['Fuc', 'GalNAc', 'GalNAc']	Novel
+29	SBID14983	0.9994712471961975	False	Fuc(b1-3)GalNAc(b1-3)Gal	[4, 9, 8]	['Fuc', 'GalNAc', 'Gal']	Novel
+29	SBID14983	0.9998038411140442	False	Fuc(b1-3)GlcNAc(b1-3)Gal	[4, 5, 8]	['Fuc', 'GlcNAc', 'Gal']	Novel
+29	SBID14983	0.9986886382102966	False	NeuNAc(b1-3)GlcNAc(b1-3)Gal	[4, 5, 11]	['NeuNAc', 'GlcNAc', 'Gal']	Novel
+29	SBID14983	0.9989983439445496	False	NeuNAc(b1-3)GalNAc(b1-3)Gal	[4, 9, 11]	['NeuNAc', 'GalNAc', 'Gal']	Novel
+29	SBID14983	0.99874347448349	False	Gal(b1-3)GalNAc(b1-3)Gal	[4, 9, 4]	['Gal', 'GalNAc', 'Gal']	Immunogenic
+30	SBID14983	0.3804851472377777	True	GalOS(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 28]	['GalOS', 'GlcNAc', 'GalNAc']	Non-immunogenic
+30	SBID14983	0.9939292669296265	False	GalOS(b1-3)GlcNAc(b1-3)Glc	[6, 5, 28]	['GalOS', 'GlcNAc', 'Glc']	Novel
+30	SBID14983	0.9906417727470398	False	GalOS(b1-3)Gal(b1-3)Glc	[6, 4, 28]	['GalOS', 'Gal', 'Glc']	Novel
+30	SBID14983	0.9905677437782288	False	GalOS(b1-3)Gal(b1-3)Gal	[4, 4, 28]	['GalOS', 'Gal', 'Gal']	Novel
+30	SBID14983	0.9914745092391968	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+31	SBID14983	0.3804851472377777	True	GalOS(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 28]	['GalOS', 'GlcNAc', 'GalNAc']	Non-immunogenic
+31	SBID14983	0.9909353852272034	False	GalOS(b1-3)GlcNAc(b1-3)GlcNAc	[5, 5, 28]	['GalOS', 'GlcNAc', 'GlcNAc']	Novel
+31	SBID14983	0.9988552331924438	False	Gal(b1-3)GlcNAc(b1-3)GlcNAc	[5, 5, 4]	['Gal', 'GlcNAc', 'GlcNAc']	Novel
+31	SBID14983	0.9982581734657288	False	Gal(b1-3)GlcNAc(b1-3)Fuc	[8, 5, 4]	['Gal', 'GlcNAc', 'Fuc']	Novel
+31	SBID14983	0.9557114243507385	False	Gal(b1-3)GlcNAc(b1-3)GalNAcOS	[56, 5, 4]	['Gal', 'GlcNAc', 'GalNAcOS']	Novel
+31	SBID14983	0.9992437362670898	False	Gal(b1-3)GlcNAc(b1-3)Gal	[4, 5, 4]	['Gal', 'GlcNAc', 'Gal']	Unknown
+31	SBID14983	0.99874347448349	False	Gal(b1-3)GalNAc(b1-3)Gal	[4, 9, 4]	['Gal', 'GalNAc', 'Gal']	Immunogenic
+32	SBID14983	0.3804851472377777	True	GalOS(b1-3)GlcNAc(b1-3)GalNAc	[9, 5, 28]	['GalOS', 'GlcNAc', 'GalNAc']	Non-immunogenic
+32	SBID14983	0.9909353852272034	False	GalOS(b1-3)GlcNAc(b1-3)GlcNAc	[5, 5, 28]	['GalOS', 'GlcNAc', 'GlcNAc']	Novel
+32	SBID14983	0.9988552331924438	False	Gal(b1-3)GlcNAc(b1-3)GlcNAc	[5, 5, 4]	['Gal', 'GlcNAc', 'GlcNAc']	Novel
+32	SBID14983	0.9969623684883118	False	Gal(b1-3)GlcNAc(b1-3)Glc	[6, 5, 4]	['Gal', 'GlcNAc', 'Glc']	Novel
+32	SBID14983	0.9840620160102844	False	Gal(b1-3)Gal(b1-3)Glc	[6, 4, 4]	['Gal', 'Gal', 'Glc']	Unknown
+32	SBID14983	0.9914745092391968	False	Gal(b1-3)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Unknown - Imm ano mismatch
+33	SBID12056	0.4524209797382355	True	GalOS(b1-4)GlcNAc(b1-3)GalNAc	[9, 5, 28]	['GalOS', 'GlcNAc', 'GalNAc']	Non-immunogenic
+33	SBID12056	0.9975011944770813	False	GalOS(b1-4)GlcNAc(b1-3)Glc	[6, 5, 28]	['GalOS', 'GlcNAc', 'Glc']	Novel
+33	SBID12056	0.9940326809883118	False	Gal(b1-4)GlcNAc(b1-3)Glc	[6, 5, 4]	['Gal', 'GlcNAc', 'Glc']	Novel
+33	SBID12056	0.9987414479255676	False	Gal(b1-4)GlcNAc(b1-3)Gal	[4, 5, 4]	['Gal', 'GlcNAc', 'Gal']	Immunogenic
+34	SBID12056	0.4524209797382355	True	GalOS(b1-4)GlcNAc(b1-3)GalNAc	[9, 5, 28]	['GalOS', 'GlcNAc', 'GalNAc']	Non-immunogenic
+34	SBID12056	0.8038268089294434	False	GalNAc(b1-4)GlcNAc(b1-3)GalNAc	[9, 5, 9]	['GalNAc', 'GlcNAc', 'GalNAc']	Unknown
+34	SBID12056	0.33213940262794495	False	Gal(b1-4)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+34	SBID12056	0.9995312690734863	False	Gal(b1-4)GlcNAc(b1-3)Galf	[21, 5, 4]	['Gal', 'GlcNAc', 'Galf']	Novel
+34	SBID12056	0.9987414479255676	False	Gal(b1-4)GlcNAc(b1-3)Gal	[4, 5, 4]	['Gal', 'GlcNAc', 'Gal']	Immunogenic
+35	SBID12056	0.4524209797382355	True	GalOS(b1-4)GlcNAc(b1-3)GalNAc	[9, 5, 28]	['GalOS', 'GlcNAc', 'GalNAc']	Non-immunogenic
+35	SBID12056	0.9962615370750427	False	GalOS(b1-4)Glc(b1-3)GalNAc	[9, 6, 28]	['GalOS', 'Glc', 'GalNAc']	Novel
+35	SBID12056	0.8463644981384277	False	GalOS(b1-4)Gal(b1-3)GalNAc	[9, 4, 28]	['GalOS', 'Gal', 'GalNAc']	Unknown
+35	SBID12056	0.9964624047279358	False	GalOS(b1-4)Gal(b1-3)Gal	[4, 4, 28]	['GalOS', 'Gal', 'Gal']	Novel
+35	SBID12056	0.9918088316917419	False	Gal(b1-4)Gal(b1-3)Gal	[4, 4, 4]	['Gal', 'Gal', 'Gal']	Novel
+35	SBID12056	0.9987414479255676	False	Gal(b1-4)GlcNAc(b1-3)Gal	[4, 5, 4]	['Gal', 'GlcNAc', 'Gal']	Immunogenic
+36	SBID13034	0.28776925802230835	True	Gal(b1-4)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+36	SBID13034	0.9983187913894653	False	Gal(b1-4)GlcNAc(b1-3)Gal	[4, 5, 4]	['Gal', 'GlcNAc', 'Gal']	Immunogenic
+37	SBID13034	0.28776925802230835	True	Gal(b1-4)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+37	SBID13034	0.9979639053344727	False	Gal(b1-4)GlcNAc(b1-3)GlcNAc	[5, 5, 4]	['Gal', 'GlcNAc', 'GlcNAc']	Novel
+37	SBID13034	0.9983187913894653	False	Gal(b1-4)GlcNAc(b1-3)Gal	[4, 5, 4]	['Gal', 'GlcNAc', 'Gal']	Immunogenic
+38	SBID13034	0.28776925802230835	True	Gal(b1-4)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+38	SBID13034	0.9979639053344727	False	Gal(b1-4)GlcNAc(b1-3)GlcNAc	[5, 5, 4]	['Gal', 'GlcNAc', 'GlcNAc']	Novel
+38	SBID13034	0.9920549392700195	False	Gal(b1-4)GlcNAcOS(b1-3)GlcNAc	[5, 26, 4]	['Gal', 'GlcNAcOS', 'GlcNAc']	Novel
+38	SBID13034	0.9874171018600464	False	Gal(b1-4)GlcNAcOS(b1-3)GlcNAcOS	[26, 26, 4]	['Gal', 'GlcNAcOS', 'GlcNAcOS']	Novel
+38	SBID13034	0.9920549392700195	False	Gal(b1-4)GlcNAcOS(b1-3)GlcNAc	[5, 26, 4]	['Gal', 'GlcNAcOS', 'GlcNAc']	Novel
+38	SBID13034	0.9979639053344727	False	Gal(b1-4)GlcNAc(b1-3)GlcNAc	[5, 5, 4]	['Gal', 'GlcNAc', 'GlcNAc']	Novel
+38	SBID13034	0.9983187913894653	False	Gal(b1-4)GlcNAc(b1-3)Gal	[4, 5, 4]	['Gal', 'GlcNAc', 'Gal']	Immunogenic
+39	SBID13034	0.28776925802230835	True	Gal(b1-4)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+39	SBID13034	0.9814591407775879	False	Gal(b1-4)GlcNAc(b1-3)ManOP	[44, 5, 4]	['Gal', 'GlcNAc', 'ManOP']	Novel
+39	SBID13034	0.9983187913894653	False	Gal(b1-4)GlcNAc(b1-3)Gal	[4, 5, 4]	['Gal', 'GlcNAc', 'Gal']	Immunogenic
+40	SBID13034	0.28776925802230835	True	Gal(b1-4)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+40	SBID13034	0.9895612597465515	False	Gal(b1-4)GlcNAc(b1-3)Glc	[6, 5, 4]	['Gal', 'GlcNAc', 'Glc']	Novel
+40	SBID13034	0.9983187913894653	False	Gal(b1-4)GlcNAc(b1-3)Gal	[4, 5, 4]	['Gal', 'GlcNAc', 'Gal']	Immunogenic
+41	SBID13034	0.28776925802230835	True	Gal(b1-4)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+41	SBID13034	0.9979639053344727	False	Gal(b1-4)GlcNAc(b1-3)GlcNAc	[5, 5, 4]	['Gal', 'GlcNAc', 'GlcNAc']	Novel
+41	SBID13034	0.9964359998703003	False	Gal(b1-4)GlcNAc(b1-3)GalOMe	[36, 5, 4]	['Gal', 'GlcNAc', 'GalOMe']	Novel
+41	SBID13034	0.9983187913894653	False	Gal(b1-4)GlcNAc(b1-3)Gal	[4, 5, 4]	['Gal', 'GlcNAc', 'Gal']	Immunogenic
+42	SBID13034	0.28776925802230835	True	Gal(b1-4)GlcNAc(b1-3)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Non-immunogenic
+42	SBID13034	0.9979639053344727	False	Gal(b1-4)GlcNAc(b1-3)GlcNAc	[5, 5, 4]	['Gal', 'GlcNAc', 'GlcNAc']	Novel
+42	SBID13034	0.9962105751037598	False	Gal(b1-4)GlcNAc(b1-3)GlcNAcOS	[26, 5, 4]	['Gal', 'GlcNAc', 'GlcNAcOS']	Novel
+42	SBID13034	0.9983187913894653	False	Gal(b1-4)GlcNAc(b1-3)Gal	[4, 5, 4]	['Gal', 'GlcNAc', 'Gal']	Immunogenic
+43	SBID17909	0.7181454300880432	True	Man(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 7]	['Man', 'GlcNAc', 'GlcNAc']	Non-immunogenic
+43	SBID17909	0.9923416376113892	False	Gal(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 4]	['Gal', 'GlcNAc', 'GlcNAc']	Unknown
+43	SBID17909	0.9704866409301758	False	Gal(b1-4)GlcNAc(b1-4)GlcNAcOS	[26, 5, 4]	['Gal', 'GlcNAc', 'GlcNAcOS']	Novel
+43	SBID17909	0.9789459109306335	False	Gal(b1-4)Gal(b1-4)GlcNAcOS	[26, 4, 4]	['Gal', 'Gal', 'GlcNAcOS']	Novel
+43	SBID17909	0.9928733110427856	False	Gal(b1-4)Gal(b1-4)GlcNAc	[5, 4, 4]	['Gal', 'Gal', 'GlcNAc']	Immunogenic
+44	SBID17909	0.7181454300880432	True	Man(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 7]	['Man', 'GlcNAc', 'GlcNAc']	Non-immunogenic
+44	SBID17909	0.994976818561554	False	GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 5]	['GlcNAc', 'GlcNAc', 'GlcNAc']	Unknown
+44	SBID17909	0.9923416376113892	False	Gal(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 4]	['Gal', 'GlcNAc', 'GlcNAc']	Unknown
+44	SBID17909	0.9348456859588623	False	Gal(b1-4)GlcNAc(b1-4)GalNAc	[9, 5, 4]	['Gal', 'GlcNAc', 'GalNAc']	Novel
+44	SBID17909	0.9923416376113892	False	Gal(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 4]	['Gal', 'GlcNAc', 'GlcNAc']	Unknown
+44	SBID17909	0.9928733110427856	False	Gal(b1-4)Gal(b1-4)GlcNAc	[5, 4, 4]	['Gal', 'Gal', 'GlcNAc']	Immunogenic
+45	SBID17909	0.7181454300880432	True	Man(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 7]	['Man', 'GlcNAc', 'GlcNAc']	Non-immunogenic
+45	SBID17909	0.7279364466667175	False	Man(b1-4)GlcNAc(b1-4)Glc	[6, 5, 7]	['Man', 'GlcNAc', 'Glc']	Unknown
+45	SBID17909	0.9714953899383545	False	Gal(b1-4)GlcNAc(b1-4)Glc	[6, 5, 4]	['Gal', 'GlcNAc', 'Glc']	Novel
+45	SBID17909	0.9830473065376282	False	Gal(b1-4)Gal(b1-4)Glc	[6, 4, 4]	['Gal', 'Gal', 'Glc']	Unknown - Imm ano mismatch
+46	SBID17909	0.7181454300880432	True	Man(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 7]	['Man', 'GlcNAc', 'GlcNAc']	Non-immunogenic
+46	SBID17909	0.994976818561554	False	GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 5]	['GlcNAc', 'GlcNAc', 'GlcNAc']	Unknown
+46	SBID17909	0.9982643723487854	False	GlcNAc(b1-4)Gal(b1-4)GlcNAc	[5, 4, 5]	['GlcNAc', 'Gal', 'GlcNAc']	Immunogenic
+47	SBID17909	0.7181454300880432	True	Man(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 7]	['Man', 'GlcNAc', 'GlcNAc']	Non-immunogenic
+47	SBID17909	0.9923416376113892	False	Gal(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 4]	['Gal', 'GlcNAc', 'GlcNAc']	Unknown
+47	SBID17909	0.988990068435669	False	Gal(b1-4)Fuc(b1-4)GlcNAc	[5, 8, 4]	['Gal', 'Fuc', 'GlcNAc']	Novel
+47	SBID17909	0.9928733110427856	False	Gal(b1-4)Gal(b1-4)GlcNAc	[5, 4, 4]	['Gal', 'Gal', 'GlcNAc']	Immunogenic
+48	SBID17909	0.7181454300880432	True	Man(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 7]	['Man', 'GlcNAc', 'GlcNAc']	Non-immunogenic
+48	SBID17909	0.9752427339553833	False	Man(b1-4)GalNAc(b1-4)GlcNAc	[5, 9, 7]	['Man', 'GalNAc', 'GlcNAc']	Novel
+48	SBID17909	0.9984452128410339	False	Gal(b1-4)GalNAc(b1-4)GlcNAc	[5, 9, 4]	['Gal', 'GalNAc', 'GlcNAc']	Unknown
+48	SBID17909	0.9928733110427856	False	Gal(b1-4)Gal(b1-4)GlcNAc	[5, 4, 4]	['Gal', 'Gal', 'GlcNAc']	Immunogenic
+49	SBID17909	0.7181454300880432	True	Man(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 7]	['Man', 'GlcNAc', 'GlcNAc']	Non-immunogenic
+49	SBID17909	0.9914273023605347	False	Glc(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 6]	['Glc', 'GlcNAc', 'GlcNAc']	Novel
+49	SBID17909	0.9984816908836365	False	Glc(b1-4)Gal(b1-4)GlcNAc	[5, 4, 6]	['Glc', 'Gal', 'GlcNAc']	Novel
+49	SBID17909	0.9966423511505127	False	Glc(b1-4)Gal(b1-4)GlcNAcOS	[26, 4, 6]	['Glc', 'Gal', 'GlcNAcOS']	Novel
+49	SBID17909	0.9789459109306335	False	Gal(b1-4)Gal(b1-4)GlcNAcOS	[26, 4, 4]	['Gal', 'Gal', 'GlcNAcOS']	Novel
+49	SBID17909	0.9830473065376282	False	Gal(b1-4)Gal(b1-4)Glc	[6, 4, 4]	['Gal', 'Gal', 'Glc']	Unknown - Imm ano mismatch
+50	SBID17909	0.7181454300880432	True	Man(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 7]	['Man', 'GlcNAc', 'GlcNAc']	Non-immunogenic
+50	SBID17909	0.9923416376113892	False	Gal(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 4]	['Gal', 'GlcNAc', 'GlcNAc']	Unknown
+50	SBID17909	0.9928733110427856	False	Gal(b1-4)Gal(b1-4)GlcNAc	[5, 4, 4]	['Gal', 'Gal', 'GlcNAc']	Immunogenic
+51	SBID17909	0.7181454300880432	True	Man(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 7]	['Man', 'GlcNAc', 'GlcNAc']	Non-immunogenic
+51	SBID17909	0.9923416376113892	False	Gal(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 4]	['Gal', 'GlcNAc', 'GlcNAc']	Unknown
+51	SBID17909	0.9714953899383545	False	Gal(b1-4)GlcNAc(b1-4)Glc	[6, 5, 4]	['Gal', 'GlcNAc', 'Glc']	Novel
+51	SBID17909	0.9940496683120728	False	Gal(b1-4)Glc(b1-4)Glc	[6, 6, 4]	['Gal', 'Glc', 'Glc']	Unknown
+51	SBID17909	0.9830473065376282	False	Gal(b1-4)Gal(b1-4)Glc	[6, 4, 4]	['Gal', 'Gal', 'Glc']	Unknown - Imm ano mismatch
+52	SBID17909	0.7181454300880432	True	Man(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 7]	['Man', 'GlcNAc', 'GlcNAc']	Non-immunogenic
+52	SBID17909	0.8086150288581848	False	Man(b1-4)GlcNAc(b1-4)Man	[7, 5, 7]	['Man', 'GlcNAc', 'Man']	Novel
+52	SBID17909	0.9519219994544983	False	Man(b1-4)Gal(b1-4)Man	[7, 4, 7]	['Man', 'Gal', 'Man']	Novel
+52	SBID17909	0.9335151314735413	False	Gal(b1-4)Gal(b1-4)Man	[7, 4, 4]	['Gal', 'Gal', 'Man']	Unknown
+52	SBID17909	0.9830473065376282	False	Gal(b1-4)Gal(b1-4)Glc	[6, 4, 4]	['Gal', 'Gal', 'Glc']	Unknown - Imm ano mismatch
+53	SBID17909	0.7181454300880432	True	Man(b1-4)GlcNAc(b1-4)GlcNAc	[5, 5, 7]	['Man', 'GlcNAc', 'GlcNAc']	Non-immunogenic
+53	SBID17909	0.8999937772750854	False	Man(b1-4)Gal(b1-4)GlcNAc	[5, 4, 7]	['Man', 'Gal', 'GlcNAc']	Novel
+53	SBID17909	0.9928733110427856	False	Gal(b1-4)Gal(b1-4)GlcNAc	[5, 4, 4]	['Gal', 'Gal', 'GlcNAc']	Immunogenic

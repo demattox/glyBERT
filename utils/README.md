@@ -13,8 +13,7 @@ All scripts and programs used to perform this analysis
 
 ## Brief overview of the contents of each directory and how they were used
 1. Preprocessing
-2. Modeling
-3. Postprocessing
+2. Postprocessing
 
 ### Pre-processing
 General glycan encoding and SugarBase glycans
@@ -29,9 +28,6 @@ Glycans on CFG microarray
 
 Matched structures for immunogenic glycans (generative exploration set-up)
 - `matchedTree-immuno.py`: Explore toplogical relationships between glycan strutures to find sets of glycans with different immunogenicity labels reachable by a generative process that only subsititues monosaccharides
-
-### Modeling
-
 
 ### Post-processing
 - `gly_emb_UMAP.py`: Explore and visualize whole glycans embeddings in UMAP space

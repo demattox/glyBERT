@@ -1,6 +1,6 @@
 # glyBERT scripts
 
-All scripts and programs used to perform this analysis
+Scripts and programs used collect & prepare data, as well as interpret and visualize results.
 
 ---
 ## Installation instructions

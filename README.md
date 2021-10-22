@@ -8,6 +8,7 @@ We also demonstrate a proof of principle example of the first deep generative me
 
 This repository was used to conduct the analyses published here: 
 
+Dai, B.\*, Mattox, D. E.\*, & Bailey-Kellogg, C. (2021). Attention please: modeling global and local context in glycan structure-function relationships. bioRxiv. https://doi.org/10.1101/2021.10.15.464532
 
 
 ## Overview
